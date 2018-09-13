@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\BridgeProjectWeek2\BridgeProjectWeek2\bin\Debug\BridgeProjectWeek2.exe.config
+C:\Users\WeCanCodeIT\source\repos\BridgeProjectWeek2\BridgeProjectWeek2\bin\Debug\BridgeProjectWeek2.exe
+C:\Users\WeCanCodeIT\source\repos\BridgeProjectWeek2\BridgeProjectWeek2\bin\Debug\BridgeProjectWeek2.pdb
+C:\Users\WeCanCodeIT\source\repos\BridgeProjectWeek2\BridgeProjectWeek2\obj\Debug\BridgeProjectWeek2.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\BridgeProjectWeek2\BridgeProjectWeek2\obj\Debug\BridgeProjectWeek2.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\BridgeProjectWeek2\BridgeProjectWeek2\obj\Debug\BridgeProjectWeek2.exe
+C:\Users\WeCanCodeIT\source\repos\BridgeProjectWeek2\BridgeProjectWeek2\obj\Debug\BridgeProjectWeek2.pdb
