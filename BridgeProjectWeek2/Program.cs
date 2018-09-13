@@ -10,7 +10,6 @@ namespace BridgeProjectWeekTwo
     {
         static void Main(string[] args)
         {
-            
             bool exit = false;
             do
             {
@@ -20,7 +19,7 @@ namespace BridgeProjectWeekTwo
 
                 Console.WriteLine("Welcome to the Crossing Guard Generator");
                 Console.WriteLine("Enter the 15 volunteer's last names");
-
+                
                 for (int i = 0; i < volunteers.Length; i++)
                 {
                     string input = Console.ReadLine().ToLower();
